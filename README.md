@@ -2,7 +2,7 @@
 
 Hi there! 
 
-I am Cris. A highly creative front-end engineer with a passion for building useful and innovative user experiences for web applications. Always learning about front end and ux design, eager to contribute to big challenging and meaningful projects.
+I am Cris. A highly creative front-end engineer with 5+ years of professional experience building useful and innovative user experiences for web applications. Always learning about front end and ux design, eager to contribute to big challenging and meaningful projects.
 
 ## Contact
 
